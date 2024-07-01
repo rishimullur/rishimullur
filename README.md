@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @rishimullur
-- 👀 This is still a work in progress.
+- 👀 This is still (and will be) a work in progress.
